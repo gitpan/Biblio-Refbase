@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Biblio-Refbase
-version:            0.03_01
+version:            0.04
 abstract:           Perl interface to refbase bibliographic manager
 author:
     - Henning Manske <hma@cpan.org>
